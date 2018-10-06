@@ -1,0 +1,9 @@
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\bin\Debug\Snack.exe.config
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\bin\Debug\Snack.exe
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\bin\Debug\Snack.pdb
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\obj\Debug\Snack.csprojResolveAssemblyReference.cache
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\obj\Debug\Snack.Form1.resources
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\obj\Debug\Snack.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\obj\Debug\Snack.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\obj\Debug\Snack.exe
+D:\C Sharp\Bai lam C sharp\Win form\Snack\Snack\obj\Debug\Snack.pdb
